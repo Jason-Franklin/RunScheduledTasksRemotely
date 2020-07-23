@@ -10,7 +10,7 @@
 
 $cred = Get-Credential ServiceAccountName
 
-#Path where script and .txt file with server list resides. Change this to the path of the location you desire.
+#Change this to the path where you placed the script and the .txt file
 
 $path = 'C:\Users\YourDirectory'
 
