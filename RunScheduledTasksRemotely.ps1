@@ -1,7 +1,7 @@
 <# ***** Run Scheduled Tasks Remotely *****
 
     07/23/2020 - Jason Franklin
-        #Created script to run a scheduled task remotely
+        #Script to run scheduled tasks remotely
 
 ********* Add revisions above ********* #>
 
