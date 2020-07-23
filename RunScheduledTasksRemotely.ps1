@@ -1,4 +1,11 @@
-﻿#Get credentials for service account login
+<# ***** Run Scheduled Tasks Remotely *****
+
+    07/23/2020 - Jason Franklin
+        #Created script to run a scheduled task remotely
+
+********* Add revisions above ********* #>
+
+#Get credentials for service account login
 #Change "ServiceAccountName" with desired service account
 $cred = Get-Credential ServiceAccountName
 #Path where script and .txt file with server list resides. Change this to the path of the location you desire.
