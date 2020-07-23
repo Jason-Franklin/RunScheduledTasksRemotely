@@ -1,0 +1,9 @@
+#Populate this file with computer or server host names. Make sure this file is in the directory defined in the script. Replace the names below with your computer or server host names.
+
+ComputerName
+ComputerName
+
+ServerName
+ServerName
+ServerName
+ServerName
