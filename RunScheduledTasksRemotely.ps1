@@ -1,7 +1,7 @@
 ﻿#Get credentials for service account login
 #Change "ServiceAccountName" with desired service account
 $cred = Get-Credential ServiceAccountName
-#Path where script and .txt file with server list resides. Change this to the path to the location you desire.
+#Path where script and .txt file with server list resides. Change this to the path of the location you desire.
 $path = 'C:\Users\YourDirectory'
 #Get content of server list file
 $servers = get-content $path\ScheduledTaskHostList.txt
